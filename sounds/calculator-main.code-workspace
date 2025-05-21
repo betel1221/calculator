@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Telegram Desktop/calculator-main/calculator-main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "fancy_calculator"
+	}
+}
